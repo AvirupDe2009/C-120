@@ -1,0 +1,29 @@
+#TITLE {
+    color:red;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+#img1 {
+    height: 50px;
+    width: 50px;
+}
+.img_responsive {
+    height: 200px;
+    width: 200px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.test_image_and_result {
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width: 70%;
+    margin-bottom: 15px; 
+}
+.first .second{
+background-color: white;
+border-radius: 10px;
+line-height: 2;
+}
